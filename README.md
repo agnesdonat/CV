@@ -1,48 +1,58 @@
-## Your Name
+Agnes Donat
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I like to think of myself as an explorer constantly pushing my boundaries to have a better understanding of myself and the world around me.
+For ten years, I have been mainly working in customer service and arts management, but eventually, the urge to make a difference led me to teach myself how to code.
+I am looking for a career change that constantly challenges me to renew and improve. 
 
 ## Skills
 
-#### This Skill
+Leading and managing teams..
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+to provide excellent customer service and reach company targets while also creating fun, dynamic working environment.
 
-- Experience
-- Achievements
-- Evidence
+Duty Manager and Front of House Supervisor at various ATG venues in London (February 2016 to February 2018)
+- I was leading and motivating the Front of House team as well as completing administration duties and assisting the senior managment team.
+- Our venue frequently came top of London in quarterly Mystery Shop results with the average of 90%.
+- The Front of House Team team was responding very well to the various themed incentives and stayed motivated to reach our company targets.
 
-#### Another Skill
+Good listener and team player...
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+working with people from culturally and linguistically diverse backgrounds have taught me that patience and kindness always pay off.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Senior Activity Leader at the Leicester Children's Holiday Centre (Six summer seasons, 2009 to 2014)
+- Promoting and organising activities for approximately 30-65 children at a time 
+- Coordinating a small international team of activity leaders and volunteers 
+- Managing children with difficult behaviour and ADHD
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2018 to May 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Makers Academy is London's leading Web Developer bootcamp.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### KRE, Hungary (2013 to 2015)
 
-#### Your University / College (start_date to end_date)
+- Theatre and Drama History MA
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### ELTE, Hungary ( 2011 to 2014)
 
-#### Any other qualifications
+- English Literature MA
 
-## Experience
+#### MOME, Hungary (2011 to 2012)
+
+- Arts Management, post-graduate course
+
+#### ELTE, Hungary (2009 to 2011)
+
+- English Studies BA
+
+#### Things I like
+- playing the violin
+- hot yoga
+- anything outdoorsy
+- trying different cuisines
+
+** ## Experience
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
