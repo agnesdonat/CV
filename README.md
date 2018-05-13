@@ -1,6 +1,6 @@
 <h2 align="center"> Agnes Donat </h2>
 
-<p align="center"> [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/agnes-donat-1b669470/) </p>
+<p align="center"> [Projects](##projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/agnes-donat-1b669470/) </p>
 
 Lego Technic Space Shuttle. That is when my interest in problem solving began. When my brother got the kit for Christmas and he was not particularly interested in building it, I took over and I worked on it for weeks every day after school. I was fascinated to build something complex with the simple, tiny blocks.
 
@@ -17,7 +17,7 @@ Makers Academy's Fellowship Program made it possible to take this ambition furth
 |[Airport Challenge](https://github.com/agnesdonat/airport_challenge)|A command line app that controls the flow of planes at an airport.|Ruby, RSpec|
 
 
-## Skills
+<h2 id="skills">Skills</h2>
 
 **Leading, motivating, and managing teams:**
 
@@ -30,13 +30,13 @@ Makers Academy's Fellowship Program made it possible to take this ambition furth
 * I was the designated Access Host at the theatre, making sure our access patrons were comfortable and looked after at all times
 * Managing children with difficult behaviour and ADHD can be challenging. Being patient and a good listener really helped me to understand and guide them better.
 
-**Persistent and curious learner**
+**Persistent and curious learner:**
 * At age 5 I taught myself to read and since then I have never stopped looking for opportunities to continue growing, learning, and improving.
 * To make sure I had a complex understanding of the subject I was studying, I completed four university degrees. In the meantime and since then, I have also signed up for workshops and short courses in various fields like audio description or fund raising to expand my knowledge and discover new things.
 
 ## Education
 
-** Makers Academy** (February 2018 to May 2018)
+**Makers Academy** (February 2018 to May 2018)
 - Test and Behaviour Driven Development
 - Pair Programming
 - Agile methodologies
@@ -47,13 +47,13 @@ Makers Academy's Fellowship Program made it possible to take this ambition furth
 - TensorFlow, TensorBoard
 - Python
 
-** Theatre and Drama History MA ** at KRE, Hungary (2013 to 2015)
+**Theatre and Drama History MA** at KRE, Hungary (2013 to 2015)
 
-** English Literature MA ** at ELTE, Hungary (2011 to 2014)
+**English Literature MA** at ELTE, Hungary (2011 to 2014)
 
-** Arts Management, post-graduate course ** at MOME, Hungary (2011 to 2012)
+**Arts Management, post-graduate course** at MOME, Hungary (2011 to 2012)
 
-** English Studies BA ** at ELTE, Hungary (2009 to 2011)
+**English Studies BA** at ELTE, Hungary (2009 to 2011)
 
 ## Experience
 
