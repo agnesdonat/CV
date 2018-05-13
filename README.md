@@ -1,6 +1,6 @@
 <h2 align="center"> Agnes Donat </h2>
 
-<p align="center"> [Projects](##projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/agnes-donat-1b669470/) </p>
+ [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/agnes-donat-1b669470)
 
 Lego Technic Space Shuttle. That is when my interest in problem solving began. When my brother got the kit for Christmas and he was not particularly interested in building it, I took over and I worked on it for weeks every day after school. I was fascinated to build something complex with the simple, tiny blocks.
 
@@ -17,7 +17,7 @@ Makers Academy's Fellowship Program made it possible to take this ambition furth
 |[Airport Challenge](https://github.com/agnesdonat/airport_challenge)|A command line app that controls the flow of planes at an airport.|Ruby, RSpec|
 
 
-<h2 id="skills">Skills</h2>
+## Skills
 
 **Leading, motivating, and managing teams:**
 
