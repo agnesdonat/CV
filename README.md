@@ -1,6 +1,6 @@
 <h2 align="center"> Agnes Donat </h2>
 
- [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/agnes-donat-1b669470)
+<div align="center"> [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/agnes-donat-1b669470/) </div>
 
 Lego Technic Space Shuttle. That is when my interest in problem solving began. When my brother got the kit for Christmas and he was not particularly interested in building it, I took over and I worked on it for weeks every day after school. I was fascinated to build something complex with the simple, tiny blocks.
 
